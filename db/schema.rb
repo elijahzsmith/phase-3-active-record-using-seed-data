@@ -22,3 +22,5 @@ ActiveRecord::Schema.define(version: 2021_07_18_134231) do
   end
 
 end
+
+puts "Done seeding!"
